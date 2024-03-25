@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "15.0.1",
     "react-dom": "15.0.1",
-    "express": "4.13.4",
+    "express": "4.19.2",
     "rc-time-picker": "1.1.4",
     "apeman-react-search": "2.0.0",
     "image-component": "https://github.com/albertodotcom/image-component.git"
